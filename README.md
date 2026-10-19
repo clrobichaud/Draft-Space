@@ -1,2 +1,2 @@
 # Draft-Space
-Draft Space - A mobile app for creative writing and brainstorming
+Draft Space - A mobile app for keeping a library of craft beer, tasting notes, and ratings.
